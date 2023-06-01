@@ -3,7 +3,7 @@
   padding: 0;
 }
 .top{
-  
+  height: 500px;;
   background-image: url("img/top-banner.png");
   background: no-repeat;
 }
@@ -18,9 +18,14 @@
     
 }
 .half-section img{
-  width: 100%;
+  max-width: 100%;
+  width: 85%;
   
 }
 .colour-hilight{
   color: seagreen;
+}
+.half-section p{
+  font-size: 20px;
+  text-align: justify;
 }
