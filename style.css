@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.top{
+  
+  background-image: url("img/top-banner.png");
+  background: no-repeat;
+}
+  
+.half-section h3{
+  margin: 15px 0px 15px 0px;
+}
+.half-section{
+  width: 40%;
+    float: left;
+    margin: 5%;
+    
+}
+.half-section img{
+  width: 100%;
+  
+}
+.colour-hilight{
+  color: seagreen;
+}
